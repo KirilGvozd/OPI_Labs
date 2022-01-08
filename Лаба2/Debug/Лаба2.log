@@ -1,0 +1,19 @@
+﻿Build started 18/09/2021 10:45:39.
+Logging verbosity is set to: Normal.     1>Project "B:\1 курс\1 семестр\Основы програмной инженерии\Лаба1\Лаба2\Лаба2.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Лаба2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Лаба2.vcxproj -> B:\1 курс\1 семестр\Основы програмной инженерии\Лаба1\Debug\Лаба2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Лаба2.tlog\unsuccessfulbuild".
+         Touching "Debug\Лаба2.tlog\Лаба2.lastbuildstate".
+     1>Done Building Project "B:\1 курс\1 семестр\Основы програмной инженерии\Лаба1\Лаба2\Лаба2.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.13
