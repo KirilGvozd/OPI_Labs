@@ -4,7 +4,7 @@ using namespace std;
 void Difference_Rus() {
 	char rus_uppercase;
 	char rus_lowercase;
-	cout << "Ââåäèòå çàãëàâíóþ ðóññêóþ áóêâó: \n"; cin >> rus_uppercase;
-	cout << "Ââåäèòå ñòðî÷íóþ ðóññêóþ áóêâó: \n"; cin >> rus_lowercase;
-	cout << "Ðàçíèöà çíà÷åíèé êîäîâ: " << int(rus_lowercase) - int(rus_uppercase) << endl;
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð·Ð°Ð³Ð»Ð°Ð²Ð½ÑƒÑŽ Ð±ÑƒÐºÐ²Ñƒ ÐºÐ¸Ñ€Ð¸Ð»Ð»Ð¸Ñ†Ñ‹: \n"; cin >> rus_uppercase;
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‚Ñƒ Ð¶Ðµ Ð±ÑƒÐºÐ²Ñƒ, Ð½Ð¾ ÑÑ‚Ñ€Ð¾Ñ‡Ð½ÑƒÑŽ: \n"; cin >> rus_lowercase;
+	cout << "Ð Ð°Ð·Ð½Ð¸Ñ†Ð° Ð¼ÐµÐ¶Ð´Ñƒ ÐºÐ¾Ð´Ð°Ð¼Ð¸: " << int(rus_lowercase) - int(rus_uppercase) << endl;
 }
