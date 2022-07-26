@@ -9,5 +9,5 @@ void Difference_Latin() {
 	char latin_lowercase;
 	cout << "Введите заглавную букву латинского алфавита: \n"; cin >> latin_uppercase;
 	cout << "Введите ту же букву, но теперь строчную: \n"; cin >> latin_lowercase;
-	cout << "Ðàçíèöà çíà÷åíèé êîäîâ: " << int(latin_lowercase) - int(latin_uppercase) << endl;
+	cout << "Разница между кодами: " << int(latin_lowercase) - int(latin_uppercase) << endl;
 }
